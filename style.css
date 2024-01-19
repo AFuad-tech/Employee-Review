@@ -23,7 +23,7 @@ h2 {
 }
 .underline {
   width: clamp(50px, 350px, 1000px);
-  height: 10px;
+  height: 15px;
   background-color: #3498db;
   border-radius: 40%;
   border: 1px dotted white;
